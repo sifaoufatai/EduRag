@@ -1,0 +1,4437 @@
+[
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d’objets de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d’une droite et d’un plan de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l’espace et caractérisation d’un plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions et résolution graphique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits ; relations métriques dans un triangle**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR × IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d’objets de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d’une droite et d’un plan de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l’espace et caractérisation d’un plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions et résolution graphique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits ; relations métriques dans un triangle**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR × IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Étude de fonctions**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Représentation graphique de la fonction $g : x \\mapsto f(x-\\alpha) + \\beta$**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d'objets de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d'une droite et d'un plan de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme de droites et plans**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : La sphère**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits et lieux géométriques**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR x IR**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d’objets de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d’une droite et d’un plan de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l’espace et caractérisation d’un plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions et résolution graphique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits ; relations métriques dans un triangle**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR × IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Étude de fonctions**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Représentation graphique de la fonction $g : x \\mapsto f(x-\\alpha) + \\beta$**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 7 : Produit scalaire**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "### **Sequence 8 : Géométrie analytique de l'espace : droites et plans**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 1 : Equations, inéquations et systèmes linéaires**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 2 : Statistique**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 3 : Dénombrement**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "### **Sequence 5 : Suites numériques**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 3 : Barycentre**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 4 : Orthogonalité, droite et cercle dans le plan**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 5 : Isométries (Translations, Symétries, Rotations)**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 6 : Similitudes et Homothéties**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "## **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "### **Sequence 7 : Représentations graphiques de Fonctions et transformations**",
+        "grade": "1ereC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : CUBE ET PAVE DROIT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : CÔNE DE REVOLUTION**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : SPHERE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 1 : DROITES DU PLAN**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 2 : SEGMENTS DE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 3 : CERCLE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 4 : ANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 5 : TRIANGLES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 6 : PARALLELOGRAMME**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 7 : ENTIERS NATURELS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 8 : NOMBRES DECIMAUX ARITHMETIQUES**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 9 : FRACTIONS**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations du plan**",
+        "sequence": "#### **Sequence 10 : CALCUL LITTERAL**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 1 : FIGURES SYMETRIQUES PAR RAPPORT A UNE DROITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 2 : FIGURES SYMETRIQUES PAR RAPPORT A UN POINT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Applications du plan**",
+        "sequence": "#### **Sequence 3 : GLISSEMENT**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : PROPORTIONNALITE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : STATISTIQUE**",
+        "grade": "6e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 1 : Nombres réels**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 2 : Valeur absolue**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 3 : Trigonométrie**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 4 : Propriété de Thalès et sa réciproque**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 5 : Triangles semblables**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 6 : Triangle rectangle**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Triangles**",
+        "sequence": "#### **Sequence 7 : Angles et cercles**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Cône**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Sections planes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 1 : Polynômes**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 2 : Equations de droite**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 3 : Equations et inéquations**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 4 : Somme de deux vecteurs – Produit d'un vecteur par un nombre réel**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Calcul littéral**",
+        "sequence": "#### **Sequence 5 : Calcul sur les coordonnées de vecteurs**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Application affine**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Application linéaire**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 4 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Statistique**",
+        "grade": "3e"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Droites orthogonales**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Droite et plan orthogonaux**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Plans perpendiculaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Projection orthogonale sur un plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Projection orthogonale sur une droite**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : Vecteurs de l'espace**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations dans IR. Systèmes linéaires**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Statistique**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Dénombrement**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Fonctions numériques d'une variable réelle**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Suites numériques**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 1 : Angles orientés et leurs propriétés**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 2 : Trigonométrie**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 3 : Barycentre**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 4 : Transformations du plan**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques dans le plan**",
+        "sequence": "#### **Sequence 5 & 6 : Représentations graphiques et Étude de fonctions**",
+        "grade": "1ereD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Etude de fonction (Limite et Continuité)**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Dérivation**",
+        "grade": "1ereA1"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d’objets de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d’une droite et d’un plan de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l’espace**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l’espace et caractérisation d’un plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l’espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions et résolution graphique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits ; relations métriques dans un triangle**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR × IR**",
+        "grade": "2ndeD"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Equations et inéquations du second degré**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Systèmes d'équations et d'inéquations linéaires à deux inconnues dans IR²**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Suites arithmétiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Suites géométriques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Statistiques**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Dénombrement**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Étude de fonctions**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Représentation graphique de la fonction $g : x \\mapsto f(x-\\alpha) + \\beta$**",
+        "grade": "1ereA2"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 1 : Représentation dans le plan d'objets de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 2 : Positions relatives d'une droite et d'un plan de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 3 : Positions relatives de deux plans de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 4 : Positions relatives de deux droites de l'espace**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 5 : Étude du parallélisme de droites et plans**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 1 : Configurations de l'espace**",
+        "sequence": "#### **Sequence 6 : La sphère**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 1 : Calculs dans IR**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 2 : Généralités sur les fonctions**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 3 : Applications**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 4 : Étude de quelques fonctions**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 5 : Équations et inéquations dans IR**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 6 : Statistique**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 2 : Organisation des données**",
+        "sequence": "#### **Sequence 7 : Polynômes et fractions rationnelles**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 1 : Vecteurs du plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 2 : Droites dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 3 : Homothétie**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 4 : Symétrie orthogonale – symétrie centrale – translation**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 5 : Angles inscrits et lieux géométriques**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 6 : Angles orientés – Trigonométrie**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 7 : Produit scalaire dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 8 : Rotation**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 9 : Cercles dans le plan**",
+        "grade": "2ndeC"
+    },
+    {
+        "Situation d’Apprentissage": "### **Situation d’Apprentissage 3 : Lieux géométriques**",
+        "sequence": "#### **Sequence 10 : Équations et inéquations dans IR x IR**",
+        "grade": "2ndeC"
+    }
+]
