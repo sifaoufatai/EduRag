@@ -109,6 +109,8 @@ def extract_text(file_dir, output_dir):
 
 
 
+
+
 if __name__ == "__main__":
     #parses_md_to_json("/home/INT/idrissou.f/PycharmProjects/EduRAG/EDUMDFILE")
     extract_text("/home/INT/idrissou.f/PycharmProjects/EduRAG/EDUMDFILE", "/home/INT/idrissou.f/PycharmProjects/EduRAG/output")
