@@ -59,11 +59,11 @@ if __name__ == "__main__":
     output_dir = "output"
     sequences_content, metadatas, all_sequences = create_all_structured_content(output_dir)
 
-    with open("all_sequences.json", "w", encoding="utf-8") as f:
+    with open("data_parsed/all_sequences.json", "w", encoding="utf-8") as f:
         json.dump(all_sequences, f, ensure_ascii=False, indent=4)
-    with open("all_sequences_content.json", "w", encoding="utf-8") as f:
+    with open("data_parsed/all_sequences_content.json", "w", encoding="utf-8") as f:
         json.dump(sequences_content, f, ensure_ascii=False, indent=4)
-    with open("all_sequences_metadata.json", "w", encoding="utf-8") as f:
+    with open("data_parsed/all_sequences_metadata.json", "w", encoding="utf-8") as f:
         json.dump(metadatas, f, ensure_ascii=False, indent=4)
 
     print("Nombre de séquences :", len(all_sequences))

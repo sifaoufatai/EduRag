@@ -10,3 +10,5 @@ openai
 pysqlite3-binary
 langchain-mistralai
 sentence-transformers
+langgraph
+langchain-openai
